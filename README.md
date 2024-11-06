@@ -49,3 +49,5 @@ export default tseslint.config({
 })
 ```
 "# react-task-app" 
+"# create-react-taskapp"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/20223096/create-react-taskapp.git git push -u origin main
+"# create-react-taskapp" 
